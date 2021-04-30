@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tiegerators_creatures:blocks/golden_obsidian",
+    "particle": "tiegerators_creatures:blocks/golden_obsidian"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoblinLeather"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoblinLeather"
+      },
+      {
+        "value": "CUSTOM:GoblinLeather"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoblinLeather"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GoblinHideArmor.boots"
+    },
+    "name": "goblin_hide_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

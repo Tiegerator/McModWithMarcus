@@ -1,0 +1,7 @@
+{
+  "parent": "tiegerators_creatures:custom/shaman_staff",
+  "textures": {
+    "0": "tiegerators_creatures:blocks/shaman_staff_tex",
+    "particle": "tiegerators_creatures:items/shamanstaff"
+  }
+}

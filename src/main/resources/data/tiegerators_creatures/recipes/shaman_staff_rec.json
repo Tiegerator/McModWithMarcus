@@ -1,0 +1,36 @@
+{
+  "group": "tiegerators_creatures",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "minecraft:spruce_log"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    },
+    "6": {
+      "item": "tiegerators_creatures:goblin_leather"
+    },
+    "7": {
+      "item": "minecraft:spruce_log"
+    },
+    "8": {
+      "item": "tiegerators_creatures:goblin_leather"
+    }
+  },
+  "result": {
+    "item": "tiegerators_creatures:shaman_staff",
+    "count": 1
+  }
+}

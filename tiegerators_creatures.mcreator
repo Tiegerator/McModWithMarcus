@@ -1,0 +1,327 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MiniZombieGolem",
+      "type": "mob",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mini_zombie_golem"
+    },
+    {
+      "name": "MoreCreatures",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_creatures"
+    },
+    {
+      "name": "ZombieGentleman",
+      "type": "mob",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_gentleman"
+    },
+    {
+      "name": "Goblin",
+      "type": "mob",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin"
+    },
+    {
+      "name": "GoblinLeather",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_leather"
+    },
+    {
+      "name": "GoblinFighter",
+      "type": "mob",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_fighter"
+    },
+    {
+      "name": "GoblinShaman",
+      "type": "mob",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_shaman"
+    },
+    {
+      "name": "GoblinHideArmor",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_hide_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GoblinHideArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_hide_armor_helmet_recipe"
+    },
+    {
+      "name": "GoblinHideArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_hide_armor_body_recipe"
+    },
+    {
+      "name": "GoblinHideArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_hide_armor_leggings_recipe"
+    },
+    {
+      "name": "GoblinHideArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_hide_armor_boots_recipe"
+    },
+    {
+      "name": "BoneClub",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_club"
+    },
+    {
+      "name": "ShamanStaffRightClickedInAir",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shaman_staff_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShamanStaff",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shaman_staff"
+    },
+    {
+      "name": "BoneClubRec",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_club_rec"
+    },
+    {
+      "name": "ShamanStaffRec",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shaman_staff_rec"
+    },
+    {
+      "name": "GoblinsMadness",
+      "type": "dimension",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblins_madness"
+    },
+    {
+      "name": "GoblinPlains",
+      "type": "biome",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_plains"
+    },
+    {
+      "name": "GoblinKing",
+      "type": "mob",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_king"
+    },
+    {
+      "name": "GoblinPortalIgRec",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin_portal_ig_rec"
+    },
+    {
+      "name": "RunicGolem",
+      "type": "mob",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runic_golem"
+    },
+    {
+      "name": "HellIncarnate",
+      "type": "biome",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_incarnate"
+    },
+    {
+      "name": "NetherLike",
+      "type": "dimension",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell"
+    },
+    {
+      "name": "Hell",
+      "type": "biome",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell"
+    },
+    {
+      "name": "GoldenObsidian",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_obsidian"
+    },
+    {
+      "name": "GoldenFlintAndSteelRec",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_flint_and_steel_rec"
+    },
+    {
+      "name": "HellAdvancement",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_advancement"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "entity.tiegerators_creatures.goblin_king": "Goblin King",
+      "entity.tiegerators_creatures.runic_golem": "Runic Golem",
+      "entity.more_creatures.mini_zombie_golem": "Mini Zombie Golem",
+      "advancements.hell_advancement.descr": "You are even deeper than Nether",
+      "item.tiegerators_creatures.goblins_madness": "Goblins Madness Key",
+      "item.tiegerators_creatures.goblin_hide_armor_boots": "Goblin Leather Boots",
+      "item.tiegerators_creatures.goblin_hide_armor_helmet": "Goblin Leather Helmet",
+      "block.tiegerators_creatures.golden_obsidian": "Golden Obsidian",
+      "entity.tiegerators_creatures.mini_zombie_golem": "Mini Zombie Golem",
+      "item.tiegerators_creatures.goblin_fighter_spawn_egg": "Goblin Fighter Spawn Egg",
+      "biome.tiegerators_creatures.hell_incarnate": "Hell Incarnate",
+      "advancements.hell_advancement.title": "I said deeper!",
+      "item.tiegerators_creatures.goblin_spawn_egg": "Goblin Spawn Egg",
+      "item.tiegerators_creatures.goblin_leather": "Goblin Leather",
+      "entity.tiegerators_creatures.goblin_shaman": "Goblin Shaman",
+      "biome.tiegerators_creatures.goblin_plains": "Goblin Plains",
+      "item.tiegerators_creatures.hell": "Golden Flint And Steel",
+      "entity.tiegerators_creatures.zombie_gentleman": "Zombie Gentleman",
+      "item.tiegerators_creatures.runic_golem_spawn_egg": "Runic Golem Spawn Egg",
+      "item.tiegerators_creatures.goblin_hide_armor_leggings": "Goblin Leather Leggings",
+      "item.tiegerators_creatures.goblin_king_spawn_egg": "Goblin King Spawn Egg",
+      "item.tiegerators_creatures.mini_zombie_golem_spawn_egg": "Mini Zombie Golem Spawn Egg",
+      "item.tiegerators_creatures.goblin_shaman_spawn_egg": "Goblin Shaman Spawn Egg",
+      "entity.tiegerators_creatures.goblin": "Goblin",
+      "item.tiegerators_creatures.zombie_gentleman_spawn_egg": "Zombie Gentleman Spawn Egg",
+      "itemGroup.tabmore_creatures": "More Creatures",
+      "item.more_creatures.mini_zombie_golem_spawn_egg": "Mini Zombie Golem Spawn Egg",
+      "entity.tiegerators_creatures.goblin_fighter": "Goblin Fighter",
+      "item.tiegerators_creatures.shaman_staff": "Shaman Staff",
+      "item.tiegerators_creatures.goblin_hide_armor_chestplate": "Goblin Leather Chestplate",
+      "item.tiegerators_creatures.bone_club": "Bone Club",
+      "biome.tiegerators_creatures.hell": "Hell"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "tiegerators_creatures",
+    "modName": "Tiegerators Creatures",
+    "version": "1.0.0",
+    "author": "timki, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.morecreatures",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

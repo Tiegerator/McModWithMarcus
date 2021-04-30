@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "tiegerators_creatures:golden_obsidian"
+    },
+    "title": {
+      "translate": "advancements.hell_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.hell_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hell_advancement": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "tiegerators_creatures:hell"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/enter_the_nether"
+}

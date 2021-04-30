@@ -1,0 +1,35 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "shamanstaff",
+    "customModelName": "shaman_staff:default",
+    "name": "Shaman Staff",
+    "specialInfo": [
+      "A Magic Staff build by Goblins. It has the Ability to heal the User"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MoreCreatures"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 5.0,
+    "usageCount": 555,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.SPRUCE_WOOD"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "ShamanStaffRightClickedInAir"
+    }
+  }
+}

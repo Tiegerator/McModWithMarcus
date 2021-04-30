@@ -1,0 +1,7 @@
+{
+  "parent": "tiegerators_creatures:custom/bone_club",
+  "textures": {
+    "0": "tiegerators_creatures:blocks/bone_club_tex",
+    "particle": "tiegerators_creatures:items/boneclub"
+  }
+}

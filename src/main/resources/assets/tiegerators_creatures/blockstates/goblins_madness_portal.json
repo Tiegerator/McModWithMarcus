@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "tiegerators_creatures:block/goblins_madness_portal_ew"
+    },
+    "axis=x": {
+      "model": "tiegerators_creatures:block/goblins_madness_portal_ns"
+    }
+  }
+}

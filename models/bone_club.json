@@ -1,0 +1,70 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "Models/Bone_Club_Tex",
+		"particle": "Models/Bone_Club_Tex"
+	},
+	"elements": [
+		{
+			"name": "right_arm",
+			"from": [7, 0, 7],
+			"to": [8, 5, 8],
+			"faces": {
+				"north": {"uv": [1, 7, 2, 12], "texture": "#0"},
+				"east": {"uv": [0, 7, 1, 12], "texture": "#0"},
+				"south": {"uv": [3, 7, 4, 12], "texture": "#0"},
+				"west": {"uv": [2, 7, 3, 12], "texture": "#0"},
+				"up": {"uv": [2, 7, 1, 6], "texture": "#0"},
+				"down": {"uv": [3, 6, 2, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "right_arm",
+			"from": [6, 5, 6],
+			"to": [9, 8, 9],
+			"faces": {
+				"north": {"uv": [3, 3, 6, 6], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 6], "texture": "#0"},
+				"south": {"uv": [9, 3, 12, 6], "texture": "#0"},
+				"west": {"uv": [6, 3, 9, 6], "texture": "#0"},
+				"up": {"uv": [6, 3, 3, 0], "texture": "#0"},
+				"down": {"uv": [9, 0, 6, 3], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.25, 6.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0.5, 7.75, 1.25]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 6, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 6.5, 0]
+		},
+		"ground": {
+			"translation": [0, 1.75, 0]
+		},
+		"gui": {
+			"translation": [1, 8.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [0, 14, 0]
+		},
+		"fixed": {
+			"translation": [0, 7.75, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "right_arm",
+			"origin": [-5, 22, 0],
+			"children": [0, 1]
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "group": "tiegerators_creatures",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_block"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "tiegerators_creatures:bone_club",
+    "count": 1
+  }
+}

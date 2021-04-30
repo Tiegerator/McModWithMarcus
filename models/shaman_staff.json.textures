@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "shaman_staff_tex"
+      },
+      "name": "default"
+    }
+  }
+}

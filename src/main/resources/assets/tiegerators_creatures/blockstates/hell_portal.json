@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "tiegerators_creatures:block/hell_portal_ew"
+    },
+    "axis=x": {
+      "model": "tiegerators_creatures:block/hell_portal_ns"
+    }
+  }
+}
